@@ -13,7 +13,7 @@ The goal of this task is to show my ability to follow instructions, learn new to
 - Codex extension in Cursor
 - GitHub
 
-## Steps Completed
+## Steps Completed 
 
 1. Created a public GitHub repository.
 2. Added a README.md file to document the process.
