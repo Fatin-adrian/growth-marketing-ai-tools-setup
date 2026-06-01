@@ -9,8 +9,8 @@ The goal of this task is to show my ability to follow instructions, learn new to
 ## Tools Installed
 
 - Cursor IDE
-- Claude Code extension in Cursor
-- Codex extension in Cursor
+- Claude Code extension by Anthropic in Cursor
+- Codex extension by OpenAI in Cursor
 - GitHub
 
 ## Steps Completed 
@@ -19,11 +19,11 @@ The goal of this task is to show my ability to follow instructions, learn new to
 2. Added a README.md file to document the process.
 3. Installed Cursor IDE from the official Cursor website.
 4. Opened the repository in Cursor.
-5. Searched for and installed the Claude Code extension in Cursor.
-6. Searched for and installed the Codex extension in Cursor.
-7. Logged in to the required AI tools.
+5. Searched for and installed the official Claude Code extension by Anthropic in Cursor.
+6. Searched for and installed the official Codex extension by OpenAI in Cursor.
+7. Checked the extension setup and login requirements.
 8. Updated this README.md file with the tools installed, steps completed, issues faced, and solutions used.
-9. Committed and pushed the final README.md file to GitHub.
+9. Committed the final README.md changes to GitHub.
 
 ## Issues I Ran Into
 
@@ -31,7 +31,8 @@ During this setup process, I faced a few challenges:
 
 - I was still learning how GitHub repositories, commits, and README files work together.
 - I needed to understand how Cursor is different from a normal code editor.
-- I needed to find the correct extensions inside Cursor.
+- I initially saw different Cursor windows, including the agent-style interface and the editor interface, which made it confusing to find the Extensions section.
+- I needed to identify the correct official extensions and avoid installing random or unofficial tools.
 - I had to make sure the repository was public and the README file was accessible through a GitHub link.
 
 ## How I Solved Them
@@ -43,12 +44,14 @@ To solve these issues, I followed a step-by-step approach:
 - I searched for beginner-friendly explanations when I did not understand a step.
 - I used AI tools to clarify technical terms and improve my documentation.
 - I checked each completed step before moving to the next one.
+- I checked the extension publisher names before installing them.
+- I installed Claude Code from Anthropic and Codex from OpenAI.
 
 ## What I Learned
 
 Through this task, I learned how to set up a basic AI-assisted working environment using Cursor, Claude Code, Codex, and GitHub.
 
-I also learned that documenting the process is as important as completing the technical setup, because clear documentation shows thinking process, communication skill, and the ability to learn independently.
+I also learned that documenting the process is as important as completing the technical setup, because clear documentation shows the thinking process, communication skills, and the ability to learn independently.
 
 ## Reflection
 
@@ -60,4 +63,4 @@ This project is a small but practical step toward building stronger AI-tool skil
 
 This setup is relevant to growth marketing because AI tools can help with market research, competitor analysis, content planning, campaign ideation, workflow automation, and faster execution.
 
-For a Junior Growth Marketing Specialist role, I believe the ability to learn tools quickly, document the process, and use AI as support for better judgment is very important.
+For a Junior Growth Marketing Specialist role, I believe the ability to learn tools quickly, document the process, and use AI to support better judgment is very important.
