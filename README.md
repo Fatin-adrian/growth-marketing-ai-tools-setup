@@ -55,3 +55,9 @@ I also learned that documenting the process is as important as completing the te
 As a junior candidate with a marketing management background, this task helped me understand how AI tools can support growth marketing work, especially in areas such as research, content planning, workflow improvement, and productivity.
 
 This project is a small but practical step toward building stronger AI-tool skills for marketing and business operations.
+
+## Relevance to Growth Marketing
+
+This setup is relevant to growth marketing because AI tools can help with market research, competitor analysis, content planning, campaign ideation, workflow automation, and faster execution.
+
+For a Junior Growth Marketing Specialist role, I believe the ability to learn tools quickly, document the process, and use AI as support for better judgment is very important.
